@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\EDIFACTParser\bin\Debug\netcoreapp3.0\EDIFACTParser.exe
+C:\Users\Lenovo\source\repos\EDIFACTParser\bin\Debug\netcoreapp3.0\EDIFACTParser.deps.json
+C:\Users\Lenovo\source\repos\EDIFACTParser\bin\Debug\netcoreapp3.0\EDIFACTParser.runtimeconfig.json
+C:\Users\Lenovo\source\repos\EDIFACTParser\bin\Debug\netcoreapp3.0\EDIFACTParser.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\EDIFACTParser\bin\Debug\netcoreapp3.0\EDIFACTParser.dll
+C:\Users\Lenovo\source\repos\EDIFACTParser\bin\Debug\netcoreapp3.0\EDIFACTParser.pdb
+C:\Users\Lenovo\source\repos\EDIFACTParser\obj\Debug\netcoreapp3.0\EDIFACTParser.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\EDIFACTParser\obj\Debug\netcoreapp3.0\EDIFACTParser.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\EDIFACTParser\obj\Debug\netcoreapp3.0\EDIFACTParser.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\EDIFACTParser\obj\Debug\netcoreapp3.0\EDIFACTParser.dll
+C:\Users\Lenovo\source\repos\EDIFACTParser\obj\Debug\netcoreapp3.0\EDIFACTParser.pdb
