@@ -1,0 +1,2 @@
+# EDIFACTParser
+ message 
